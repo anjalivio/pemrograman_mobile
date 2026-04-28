@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# navigator_rules
-=======
-# prak3sib2
->>>>>>> d29d866656294267f6d7fcbd5afd489dd9dae590
+# tugas2
 
 A new Flutter project.
 
